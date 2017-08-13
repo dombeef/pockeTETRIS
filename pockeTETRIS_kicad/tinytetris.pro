@@ -1,4 +1,4 @@
-update=5/5/2017 10:44:21 PM
+update=8/13/2017 12:58:33 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,14 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=tinytetris-cache
+LibName31=switches
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=39
